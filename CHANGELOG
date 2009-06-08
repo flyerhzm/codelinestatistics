@@ -1,0 +1,24 @@
+
+ * 0.5:
+	 					 Added the user-defined file type to be counted.
+	 					 Fixed bug that output file name must contain the file type.
+	 					 
+ * 0.4:
+	 					 Added css file parser
+	 					 Added javascript file parser
+	 					 Changed html file parser
+	 					 Added file mapping that the application can be used to count undefined file
+
+ * 0.3:
+ 
+ 						 Added c/c++ file parsers
+ 						 Added Rake to manage the project
+ 						 Added result to MS Excel (Windows)
+ 						 Added readable result for users
+
+ * 0.2:
+          Fixed bug that script codes may be treated as comment lines
+          Added percentage result statistics
+          
+ * 0.1:
+          First public release

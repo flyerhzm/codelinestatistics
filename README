@@ -1,0 +1,32 @@
+CodeLineStatistics README file:
+----------------------------------------
+
+What is CodeLineStatistics ?
+----------------------------------------
+This is a project for code line statistics. It is written by ruby and provides 
+a GUI (use FOX) for end user. Now it can count the most of file types of Ruby 
+and Java projects, including .rb, .rhtml, .yml, .java, .xml, .html, .jsp and 
+.properties files. And it will parse the other file types future. The GUI provides 
+visualized results, which is divided into two parts. One is the total results 
+including total files, total sizes of files, total lines, total lines of codes, 
+total lines of comments and total lines of blanks. The other is a table which 
+displays details information about each file, the information is composed of 
+file name, directory name, total lines, code lines, comment lines, blank lines 
+and file type. The visualized results can be also exported to a .html file. 
+Besides these, it provides a dialog to customize. For example, the trailing comment 
+line can be treated as a code line, a comment line or a code line plus a comment line.
+
+What are the sytem requirements ?
+----------------------------------------
+o Ruby (http://www.ruby-lang.org)
+o FxRuby (http://www.fxruby.org/)
+
+How to compile/install ?
+----------------------------------------
+See the INSTALL file.
+
+How to contact the author (me):
+----------------------------------------
+Just E-mail all bugreports (and fixes), suggestions or comments to
+ flyerhzm@gmail.com
+and place the word 'CodeLineStatistics' somewhere in the subject.
